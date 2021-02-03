@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamlerCodeChallenge", "DiamlerCodeChallenge\DiamlerCodeChallenge.csproj", "{5F7B2F96-F334-4A8A-B422-F82415A008B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamlerCodeChallenge.UnitTest", "DiamlerCodeChallenge.UnitTests\DiamlerCodeChallenge.UnitTest.csproj", "{BB9BEB4B-E375-4D58-88F0-06A6167EFFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7B2F96-F334-4A8A-B422-F82415A008B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7B2F96-F334-4A8A-B422-F82415A008B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7B2F96-F334-4A8A-B422-F82415A008B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7B2F96-F334-4A8A-B422-F82415A008B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9BEB4B-E375-4D58-88F0-06A6167EFFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9BEB4B-E375-4D58-88F0-06A6167EFFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9BEB4B-E375-4D58-88F0-06A6167EFFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9BEB4B-E375-4D58-88F0-06A6167EFFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39CC046-DDA2-4E95-93DA-CCE664ADBE6E}
+	EndGlobalSection
+EndGlobal

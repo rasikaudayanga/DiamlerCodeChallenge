@@ -1,0 +1,148 @@
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\Views\Templates\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CopyComplete
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csprojAssemblyReference.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Views\Templates\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csprojAssemblyReference.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CopyComplete
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Views\Templates\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csprojAssemblyReference.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\My code\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CopyComplete
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\Views\Templates\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\bin\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csprojAssemblyReference.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\finalDaimler\DiamlerCodeChallenge\DiamlerCodeChallenge\obj\Debug\netcoreapp2.1\DiamlerCodeChallenge.csproj.CopyComplete

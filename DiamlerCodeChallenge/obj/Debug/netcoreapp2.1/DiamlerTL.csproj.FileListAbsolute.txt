@@ -1,0 +1,74 @@
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\CustomViews\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csprojAssemblyReference.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\ZippedProject\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csproj.CopyComplete
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.deps.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.runtimeconfig.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.runtimeconfig.dev.json
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.Views.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\DiamlerTL.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.AssemblyInfoInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.AssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.TagHelpers.input.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.TagHelpers.output.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorCoreGenerate.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorTargetAssemblyInfo.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.RazorTargetAssemblyInfo.cs
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.Views.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.dll
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.pdb
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.genruntimeconfig.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csproj.CopyComplete
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\bin\Debug\netcoreapp2.1\TemplateViews\index.html
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csproj.CoreCompileInputs.cache
+C:\Users\rasik\OneDrive\Desktop\Daimler\My code\DiamlerTL\DiamlerTL\obj\Debug\netcoreapp2.1\DiamlerTL.csprojAssemblyReference.cache
